@@ -1,5 +1,5 @@
 # BookStore
-###A Desktop Book Database Application
+### A Desktop Book Database Application
 ***
 *This project was created in an ongoing effort to learn, and become proficient in python. This application utilizes the Tkinter library to create the graphical user interface, and the sqlite3 library for database management.*
 ***
